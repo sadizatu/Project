@@ -1,0 +1,112 @@
+h1 {
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+    text-align: center;
+    font-size: 100px;
+    color: khaki;
+}
+
+h1,
+h2,
+h3,
+p {
+    font-family: Helvetica;
+}
+
+h1 {
+    display: block;
+    font-size: 2cm;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#brushes {
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.item h2 {
+    font-size: 32px;
+}
+
+h1,
+h2,
+h3,
+p {
+    font-family: Helvetica;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5cm;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#frame {
+    color: white;
+    background-color: lightcoral;
+}
+
+.item h2 {
+    color: white;
+    font-size: 32px;
+}
+
+h1,
+h2,
+h3,
+p {
+    font-family: Helvetica;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5cm;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#paint {
+    color: white;
+    background-color: skyblue;
+}
+
+.item h2 {
+    color: white;
+    font-size: 32px;
+}
+
+h1,
+h2,
+h3,
+p {
+    font-family: Helvetica;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5cm;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.price {
+    color: blue;
+    font-weight: bold;
+}
+
+h1,
+h2,
+h3,
+p {
+    font-family: Helvetica;
+}
